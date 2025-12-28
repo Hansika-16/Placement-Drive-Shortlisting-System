@@ -53,3 +53,6 @@ Concepts:
 Libraries:
 - stdio.h
 - string.h
+
+## Author
+Hansika Samala
